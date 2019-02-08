@@ -1,0 +1,7 @@
+Explain the difference between visibility:hidden and display:none
+visibility:hidden	=== The element is hidden (but still takes up space)
+
+display: none ===
+Hiding an element can be done by setting the display property to none.
+The element will be hidden, and the page will
+be displayed as if the element is not there:
